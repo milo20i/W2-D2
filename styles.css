@@ -1,0 +1,88 @@
+body {
+  background-color: #212529;
+}
+
+#lens {
+  margin-right: 30px;
+}
+#nav {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+#carouselExampleControls {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 40px;
+}
+#queen {
+  margin-left: 80px;
+  margin-bottom: 15px;
+  margin-top: 40px;
+}
+#play {
+  margin-left: 80px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+#img1 {
+  margin-left: 90px;
+  height: 200px;
+  width: 250px;
+}
+#img2 {
+  margin-left: 25px;
+  height: 200px;
+  width: 250px;
+}
+#img3 {
+  margin-left: 25px;
+  height: 200px;
+  width: 250px;
+}
+#img4 {
+  margin-left: 25px;
+  height: 200px;
+  width: 250px;
+  margin-right: 100px;
+}
+#madeforyou {
+  margin-top: 80px;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+#guns {
+  margin-left: 90px;
+  height: 200px;
+  width: 250px;
+}
+#ozzy {
+  margin-left: 25px;
+  height: 200px;
+  width: 230px;
+}
+#u2 {
+  margin-left: 25px;
+  height: 200px;
+  width: 230px;
+}
+#red {
+  margin-left: 25px;
+  height: 200px;
+  width: 230px;
+}
+#aereo {
+  margin-left: 80px;
+  height: 2000px;
+  width: 900px;
+}
+#marilyn {
+  margin-left: 25px;
+  height: 500px;
+  width: 230px;
+}
+#bon {
+  margin-left: 25px;
+  height: 300px;
+  width: 230px;
+}
